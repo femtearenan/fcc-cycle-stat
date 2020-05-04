@@ -12,10 +12,11 @@ class App extends React.Component {
     return (
       <div className="App">
         <header className="App-header">
-          <h1 id="title">GDP development in USA</h1>
+          <h1 id="title">Times in cycle races</h1>
         </header>
         <article>
           <BarChart id="1"/>
+          <p id="legend">This shows times in cycle races throughout the years.</p>
         </article>
       </div>
     );
