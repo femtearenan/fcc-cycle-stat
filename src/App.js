@@ -12,8 +12,7 @@ class App extends React.Component {
     return (
       <div className="App">
         <header className="App-header">
-          <h1>Runner statistics</h1>
-          <p>Profile: Anders Björkland</p>
+          <h1 id="title">GDP development in USA</h1>
         </header>
         <article>
           <BarChart id="1"/>

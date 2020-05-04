@@ -10,8 +10,7 @@ const initialState = {
     status: INITIALIZING,
     isFetching: false,
     isOK: false,
-    runData: [],
-    typeData: [],
+    GDPData: [],
     categories: []
 }
 

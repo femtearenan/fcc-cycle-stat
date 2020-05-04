@@ -30,21 +30,9 @@ body {
   margin-top: 3rem;
 }
 
-.barchart {
-  -webkit-transform: scaleY(-1);
-          transform: scaleY(-1);
-}
-
-.bar-text {
-  -webkit-transform: scaleY(-1);
-          transform: scaleY(-1);
-}
-
 .bar-info {
   font-family: monospace;
   fill: #dcdcdc;
-  -webkit-transform: scaleY(-1);
-          transform: scaleY(-1);
   font-weight: Bold;
   -webkit-animation: info-anim;
           animation: info-anim;
